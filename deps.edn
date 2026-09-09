@@ -2,7 +2,7 @@
  :deps {
         io.github.kotoba-lang/lsp-severity-rank
         {:git/url "https://github.com/kotoba-lang/lsp-severity-rank.git"
-         :git/sha "e8ecfd72f3064c28ba5396ec630a98767d69b2f4"}}
+         :git/sha "14a5048f00b28fb413a9d90a6904a44fb4099e5b"}}
  :aliases
  {:test {:extra-paths ["test"]
          :extra-deps {io.github.cognitect-labs/test-runner
